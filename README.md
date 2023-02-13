@@ -1,8 +1,12 @@
 # DE_project
 
 En este repositorio se Encuentra el proyecto de análisis de expresión diferencial del Módulo 1 de Bioinformática impartido por Leonardo Collado en la LCG.
+
 El proyecto se comenzó con datos de SRP098758, pero se continuó con SRP090061
+
 El proyecto y reporte completos corresponden a los datos de SRP090061
+
+Contenido:
 
 * El directorio 'code' contiene los scripts en R necesarios para realizar el proyecto
 * El directorio 'figuras' contiene las figuras generadas para el proyecto
